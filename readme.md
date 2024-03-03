@@ -1,0 +1,1 @@
+This project is a web-based application that allows users to create and manage their own personal to-do lists. It is designed to be simple and easy to use, with a clean and intuitive interface.
